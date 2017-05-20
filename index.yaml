@@ -11,7 +11,7 @@ entries:
       name: Kubernetes Community
     name: myapp
     sources:
-    - https://github.com/k8s-community/myapp
+    - https://github.com/DmitryRomanov/myapp
     urls:
     - https://k8s-community.github.io/mycharts/myapp-0.0.5.tgz
     version: 0.0.5
